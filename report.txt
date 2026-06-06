@@ -1,0 +1,36 @@
+Adventure Game Project Report
+
+Project:
+A simple text-based adventure game built in Python titled "Ancient Treasure Adventure".
+
+Purpose:
+Create an interactive command-line game where the player explores a forest or cave and makes choices to reach the hidden treasure.
+
+Key features:
+- Player name input and simple introduction
+- Choice-based story branches for forest and cave paths
+- Win or lose outcomes based on decisions
+- Option to restart the game after completion
+
+How GitHub Copilot helped:
+- Helped structure the game flow and decide on functions
+- Suggested readable code style and choice handling
+- Supported creation of clean, human-friendly variable names
+
+Challenges faced:
+- Ensuring clear input prompts and validation
+- Making the game easy to understand for new players
+
+Enhancements made:
+- Added restart support after each run
+- Used a reusable input function for choice validation
+- Kept the game simple and friendly for beginners
+
+Files submitted:
+- adventure_game.py
+- report.pdf
+- report.txt
+
+How to run:
+Open a terminal in the project folder and run: python adventure_game.py
+
